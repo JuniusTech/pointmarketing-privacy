@@ -1,23 +1,36 @@
-Privacy Policy
+Privacy Policy for Poin Marketing
 ----------------
-This Privacy Policy is prepared by Point Marketing and whose registered address is 167-169 Great Portland street, 5th Floor, London, W1W 5PF (“We”) are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us.
-This policy sets out how we process any personal data we collect from you or that you provide to us through our website and social media sites. We confirm that we will keep your information secure and comply fully with all applicable United Kingdom Data Protection legislation and regulations. Please read the following carefully to understand what happens to personal data that you choose to provide to us, or that we collect from you when you visit our sites. By submitting information you are accepting and consenting to the practices described in this policy.
-### Types of information we may collect from you
-We may collect, store and use the following kinds of personal information about individuals who visit and use our website and social media sites:
-Information you supply to us. You may supply us with information about you by filling in forms on our website or social media. This includes information you provide when you submit a contact/inquiry form. The information you give us may include but is not limited to, your name, address, e-mail address, and phone number.
-### How we may use the information we collect
-#### We use the information in the following ways:
-Information you supply to us. We will use this information:
-* To provide you with information and/or services that you request from us;
-* To contact you to provide the information requested.
-### Disclosure of your information
-Any information you provide to us will either be emailed directly to us or may be stored on a secure server.
-We do not rent, sell or share personal information about you with other people or non-affiliated companies.
-We will use all reasonable efforts to ensure that your personal data is not disclosed to regional/national institutions and authorities unless required by law or other regulations.
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
-### Your rights – access to your personal data
-You have the right to ensure that your personal data is being processed lawfully (“Subject Access Right”). Your subject access right can be exercised in accordance with data protection laws and regulations. Any subject access request must be made in writing to artaxapp@gmail.com. We will provide your personal data to you within the statutory time frames. To enable us to trace any of your personal data that we may be holding, we may need to request further information from you. If you complain about how we have used your information, you have the right to complain to the Information Commissioner’s Office (ICO).
-### Changes to our privacy policy
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
-### Contact
-Questions, comments, and requests regarding this privacy policy are welcomed and should be addressed to artaxapp@gmail.com. 
+### Introduction
+Poin Marketing ("we," "our," "us") is committed to protecting the privacy of our employees' personal information. This Privacy Policy explains how we collect, use, and safeguard information gathered through our application.
+
+### Information Collection
+
+Poin Marketing collects personal information from our employees for internal use only. This data is gathered to support our company operations, including but not limited to reporting and analysis.
+
+### Use of Information
+
+The collected information is utilized exclusively for internal reporting and analytical purposes to improve our company operations and productivity. This data will not be used for any other purposes outside the scope of our company activities.
+
+### Data Sharing
+
+We do not share any collected information with third parties. All data remains within the company and is accessible only to authorized personnel.
+
+### Data Retention and Deletion
+
+Since Poin Marketing is an internal application used solely for company purposes, employees cannot request the deletion of their data. All rights to the data collected through this application belong to the company.
+
+### Data Security
+
+We take data security seriously. The information collected through our application is stored on secure servers dedicated to Poin Marketing. We implement appropriate technical and organizational measures to safeguard this data against unauthorized access, loss, or misuse.
+
+### Contact Information
+
+For any questions or further information regarding this Privacy Policy, please contact us at info@pointmarketing.eu.
+
+### Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page, and we will notify our employees of significant changes through the application or other communication channels.
+
+### Effective Date
+
+This Privacy Policy is effective as of 05-2025.
