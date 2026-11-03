@@ -48,7 +48,7 @@ Zweck ist, das Konto zu führen und Ihnen Ihre Anfragen zu zeigen. Rechtsgrundla
 
 ### 5. Profilfoto
 
-Sie können freiwillig ein Foto aus Ihrer Fotomediathek als Profilfoto wählen. Die App verwendet dafür nicht die Kamera und nicht das Mikrofon.
+Sie können freiwillig ein Foto aus Ihrer Fotomediathek als Profilfoto wählen.
 
 Rechtsgrundlage ist Ihre Einwilligung nach Artikel 6 Absatz 1 Buchstabe a DSGVO. Sie können das Foto ersetzen. Mit dem Löschen des Kontos wird auch das Foto gelöscht.
 
@@ -148,8 +148,7 @@ We use this information to run the account and to show you your requests. The le
 
 ### 5. Profile photo
 
-You may choose a photo from your photo library as your profile photo. This is optional. The app does not use the camera or the microphone for it.
-
+You may choose a photo from your photo library as your profile photo. This is optional.
 The legal basis is your consent under Article 6(1)(a) GDPR. You can replace the photo. Deleting the account also deletes the photo.
 
 ### 6. Notifications
